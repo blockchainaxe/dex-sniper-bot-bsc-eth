@@ -6,7 +6,10 @@ SniperX is a [PancakeSwap Sniper Bot](https://sniperxbot.com) that front-runs an
 
 https://sniperxbot.com/
 
-https://sniperxbot.com/images/ui/main.webp
+<img width="851" alt="1" src="https://user-images.githubusercontent.com/99099341/177670687-0b667091-e1e1-4e9c-b0f7-b07c83ef9cce.png">
+<img width="851" alt="2" src="https://user-images.githubusercontent.com/99099341/177670695-686e430f-4d6f-4a6a-8d21-012f1a25299d.png">
+<img width="851" alt="3" src="https://user-images.githubusercontent.com/99099341/177670698-d117aa69-e2db-4df4-b2cc-34797182975a.png">
+
 
 Built using an array of front-end and back-end techonologies.
 
