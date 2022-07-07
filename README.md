@@ -10,22 +10,48 @@ https://sniperxbot.com/
 
 Built using an array of front-end and back-end techonologies.
 
-Current features include:
-- Mempool Sniping
-- Custom Gas
-- Front-runner
-- Telegram Sniping
-- Automatic pre-approval of Tokens
-- Private node connections
-- Post-liquidity buys
-- Token validation
-- Live real-time dashboard
-- Trailing Stop-loss
-- Multiple buys via Solidity in single txns
-
-Todos:
-- Multi-chain support (AVAX)
-- Backrunning? (less popular these days)
-- Ping tests within client
-
-`Any questions or suggestions, feel free to contact us through PM`
+Any buy amount	
+Multiple buys	
+Single tx hash	
+Auto pre-approve	
+Post-liquidity buys (ape)	
+Telegram
+Scan any Telegram channel/group	
+Scan portals	
+Cloud TG bot	
+Connect your own Telegram account	
+Scan private groups you're in	
+Instant snipe	
+Ignore non-admins/bots (optional)	
+Ignore contracts previously sniped	
+Selling
+One-click sells	
+Take out initial buy-in	
+Moon bag	
+Custom moon bag %	
+Stop-loss	
+Trailing stop-loss	
+Blockchain
+Binance Smart Chain	
+Ethereum	On the way
+Avalanche	On the way
+Fantom	On the way
+Polygon Matic	On the way
+Cronos	On the way
+KuChain	On the way
+Sniper
+0ms latency, on-server snipe	
+Mempool sniper	
+Telegram sniffer	
+Paste + buy	
+Custom gwei	
+Custom gas limit	
+Intelligas (smart gas)	
+Always-on balance view	
+Safety
+Max buy tax limit	
+Max sell tax limit	
+HoneyPot checker	
+Blacklist checker	
+Snipe delay	
+Session expiry
