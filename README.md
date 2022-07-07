@@ -10,9 +10,9 @@ https://sniperxbot.com/
 
 Built using an array of front-end and back-end techonologies.
 
-  Any buy amount	
-Multiple buys	
-Single tx hash	
+Any buy amount
+Multiple buys
+Single tx hash
 Auto pre-approve	
 Post-liquidity buys (ape)	
 Telegram
